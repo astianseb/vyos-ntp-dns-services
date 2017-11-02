@@ -1,0 +1,1 @@
+set system ntp server {{NTP_SERVER}}

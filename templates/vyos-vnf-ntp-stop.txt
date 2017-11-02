@@ -1,0 +1,2 @@
+delete system ntp server {{NTP_SERVER}}
+

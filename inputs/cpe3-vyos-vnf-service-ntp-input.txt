@@ -1,0 +1,4 @@
+ntp_server: "time-a.nist.gov"
+vyos_vnf_deployment_name: "cpe3-vyos-vnf-deployment"
+vyos_vnf_blueprint_name: "cpe3-vyos-vnf-blueprint"
+

@@ -1,0 +1,2 @@
+delete system name-server {{DNS_SERVER}}
+
